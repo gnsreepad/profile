@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Ganesh has expertise in building cloud-based machine learning and natural language processing services at early stage tech companies.',
   paragraphTwo: 'Built neural networks to analyze and categorize product images, a recommendation system to personalize shopping experiences for each user, and tools to generate insight into user behavior.',
   paragraphThree: 'Additionaly Ganesh has back end software engineering experience.',
-  resume: 'https://github.com/', // if no resume, the button will not show up
+  resume: 'https://www.linkedin.com/in/gsreepad/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
