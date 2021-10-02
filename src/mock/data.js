@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'Profile.jpeg',
   paragraphOne: 'Ganesh has expertise in building cloud-based machine learning and natural language processing services at early stage tech companies.',
   paragraphTwo: 'Built neural networks to analyze and categorize product images, a recommendation system to personalize shopping experiences for each user, and tools to generate insight into user behavior.',
   paragraphThree: 'Additionaly Ganesh has back end software engineering experience.',
